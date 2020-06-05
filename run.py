@@ -48,7 +48,7 @@ def get_names():
     )
 
     response = assistant.message(
-        workspace_id='7cb1c0fc-6e91-4b63-9e93-8a30028bd58e',
+        workspace_id='97afbe1c-dd6b-4d91-8022-8d483eae2174',
         input={
             'text': command #use the <text> we get with flask
         }
