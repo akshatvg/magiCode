@@ -81,12 +81,12 @@ The source code of this project is written in **`Flask, HTML/CSS/JS, IBM Watson,
 
 ## Instructions to run
 
-`
+```
 $ git clone https://github.com/akshatvg/magiCode
 $ cd magiCode
 $ pip3 install -r requirements.txt
 $ python3 run.py
-`
+```
 
 
 ## Need help?
