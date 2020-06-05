@@ -9,9 +9,7 @@
 magiCode is an educative technology which helps students learn, compete and earn.
 
 <p align="center">
-<a href="https://magiCode.akshatvg.com">
 <img src="https://github.com/akshatvg/magiCode/blob/master/static/magiCode.png" alt="magiCode Logo"/>
-</a>
 </p>
 
 ![Generic badge](https://img.shields.io/badge/magiCode-translator-orange) 
