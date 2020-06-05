@@ -10,7 +10,7 @@ magiCode is an educative technology which helps students learn, compete and earn
 
 <p align="center">
 <a href="https://magiCode.akshatvg.com">
-<img src="https://github.com/akshatvg/magiCode/blob/master/static/magiCode.png" height="120px" alt="magiCode Logo"/>
+<img src="https://github.com/akshatvg/magiCode/blob/master/static/magiCode.png" alt="magiCode Logo"/>
 </a>
 </p>
 
@@ -79,11 +79,14 @@ magiCode is a zero investment product (excluding server and development costs) s
 
 The source code of this project is written in **`Flask, HTML/CSS/JS, IBM Watson, Sphere Engine`**. So, you will have to install `requirements.txt` to run this project. You will also need a Spehere Engine API Key incase the editor's key expires.
 
-## Instructions
+## Instructions to run
 
-[![chrome](https://img.shields.io/badge/Open-index.html-lightgrey.svg?logo=google-chrome&style=popout&logoColor=red)](https://magiCode.akshatvg.com)
-
-Extract the folder and run `index.html`
+`
+$ git clone https://github.com/akshatvg/magiCode
+$ cd magiCode
+$ pip3 install -r requirements.txt
+$ python3 run.py
+`
 
 
 ## Need help?
